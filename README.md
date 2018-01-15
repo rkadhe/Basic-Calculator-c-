@@ -6,10 +6,12 @@ Operations currently supported: Addition
                                Multiplication
 Sample Run #1: 
 (2 + 3) * (1 + 4)
+
 The answer is: 25
 
 Sample Run #2:
 1 * 4 + 2
+
 The answer is: 6
 
 Sample Run #3:
